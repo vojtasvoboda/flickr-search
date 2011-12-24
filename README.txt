@@ -11,4 +11,6 @@ Seznam požadavků:
 
 Externí odkazy:
 Flickr: http://www.flickr.com/
-Flickr API: http://www.flickr.com/services/api/ 
+Flickr API: http://www.flickr.com/services/api/
+
+Příslušný článek: http://blog.vojtasvoboda.cz/vyhledavani-obrazku-pres-flickr-api-v-php 
