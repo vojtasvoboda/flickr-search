@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://flickr.vojtasvoboda.cz/sitemap.xml
+Sitemap: http://flickr.7ka.cz/sitemap.xml

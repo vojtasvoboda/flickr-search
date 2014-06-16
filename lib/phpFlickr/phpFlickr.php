@@ -6,9 +6,9 @@
  * For more information about the class and upcoming tools and toys using it,
  * visit http://www.phpflickr.com/
  *
- *	 For installation instructions, open the README.txt file packaged with this
+ *	 For installation instructions, open the README.md file packaged with this
  *	 class. If you don't have a copy, you can see it at:
- *	 http://www.phpflickr.com/README.txt
+ *	 http://www.phpflickr.com/README.md
  *
  *	 Please submit all problems or questions to the Help Forum on my Google Code project page:
  *		 http://code.google.com/p/phpflickr/issues/list

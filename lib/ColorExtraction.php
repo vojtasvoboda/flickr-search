@@ -4,13 +4,16 @@
  * This function accepts a truecolor image object and analyzes the colors.
  * It works by dividing the image into x*y blocks and identifying the dominant color in each
  * block. It returns these colors in an array in the format array[xPos][yPos]
+ *
  * @author Ben Hindmarch
  * @copyright 2007
  * @version 0.2 (2007-06-26)
  * @abstract Grabs the main colors from an image
+ *
  * @param binary $im The image object
  * @param integer $xCount The number of blocks along the x-axis (default 3)
  * @param integer $yCount The number of blocks along the y-axis (default 3)
+ *
  * @return array containing x and y position of color, individual decimal red, green and blue
  * values as well as a hex value
  */
@@ -48,13 +51,17 @@ function analyzeImageColors($im, $xCount = 3, $yCount = 3) {
 	}
 	//destroy the source image
 	imagedestroy($im);
+
 	return $colorArray;
 }
 
 /**
  * Funkce pro urceni spravne barevnych obrazku
+ *
  * @param $extract
  * @param $color
+ *
+ * @author Vojta Svoboda
  */
 function isPictureColored($extract, $color) {
 	$red = $extract[0][0]['r'];
@@ -92,6 +99,6 @@ function isPictureColored($extract, $color) {
 	    default:
 	    	return false;
 	}
+
 	return false;
 }
-?>

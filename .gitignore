@@ -1,7 +1,1 @@
-
-/.buildpath
-/.project
-*.htaccess
-*.htaccess
-/.settings
-/.settings/org.eclipse.php.core.prefs
+.idea
