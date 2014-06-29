@@ -13,9 +13,6 @@
 <meta name="distribution" content="global" />
 <meta name="copyright" content="Vojtěch Svoboda; mailto:info@vojtasvoboda.cz" />
 <meta name="language" content="Czech" />
-<meta http-equiv='Pragma' content='no-cache' />
-<meta http-equiv='Cache-Control' content='no-cache' />
-<meta http-equiv='Expires' content='-1' />
 <meta name='robots' content='all,follow' />
 <meta name="rating" content="general" />
 <meta name="revisit-after" content="30 days" />
@@ -30,7 +27,16 @@
 <!--[if lte IE 7]>
 <link rel="stylesheet" href="/css/ie_fixes.css" type="text/css" media="screen" />
 <![endif]-->
-
+{literal}
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-30324249-4', 'auto');
+    ga('send', 'pageview');
+</script>
+{/literal}
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/js/jquery.colorbox-set.js"></script>
