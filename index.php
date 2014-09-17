@@ -1,6 +1,5 @@
 <?php
 
-define('IN_CODE', 1);
 session_start();
 
 require_once "lib/functions.inc.php";

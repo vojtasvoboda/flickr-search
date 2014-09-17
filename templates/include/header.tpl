@@ -7,15 +7,10 @@
 
 <title>{$project.title}</title>
 
-<meta name="keywords" content="klicova slova" />
-<meta name="description" content="popis webu" />
 <meta name="copyright" content="Vojtěch Svoboda; mailto:info@vojtasvoboda.cz" />
-<meta name="distribution" content="global" />
 <meta name="copyright" content="Vojtěch Svoboda; mailto:info@vojtasvoboda.cz" />
 <meta name="language" content="Czech" />
 <meta name='robots' content='all,follow' />
-<meta name="rating" content="general" />
-<meta name="revisit-after" content="30 days" />
 <meta name="google-site-verification" content="bk3qspKYZHRn5G3BO4JlWT5k1Bv0mrU0qPuzhxrYHf0" />
 
 <link rel="shortcut icon" href="favicon.ico" />

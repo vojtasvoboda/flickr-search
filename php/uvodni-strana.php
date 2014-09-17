@@ -1,10 +1,5 @@
 <?php
 
-if (!defined('IN_CODE')) {
-    require_once "lib/functions.inc.php";
-    presmeruj404();
-}
-
 $out = "";
 $error = false;
 $error1 = false;
