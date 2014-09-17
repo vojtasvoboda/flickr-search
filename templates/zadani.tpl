@@ -22,10 +22,10 @@
 
         <h3>Externí odkazy</h3>
         <code>
-            Flickr: <a href="http://www.flickr.com/" rel="nofollow">http://www.flickr.com/</a><br />
-            Flickr API: <a href="http://www.flickr.com/services/api/" rel="nofollow">http://www.flickr.com/services/api/</a><br />
-    Projekt na GitHub: <a href="https://github.com/vojtasvoboda/VMW-FlickrSearch" rel="nofollow">https://github.com/vojtasvoboda/VMW-FlickrSearch</a><br />
-    Článek na blogu: <a href="http://blog.vojtasvoboda.cz/vyhledavani-obrazku-pres-flickr-api-v-php" rel="nofollow">http://blog.vojtasvoboda.cz/vyhledavani-obrazku-pres-flickr-api-v-php</a>
+            Flickr: <a href="http://www.flickr.com/" rel="nofollow" target="_blank">http://www.flickr.com/</a><br />
+            Flickr API: <a href="http://www.flickr.com/services/api/" rel="nofollow" target="_blank">http://www.flickr.com/services/api/</a><br />
+            Projekt na GitHub: <a href="https://github.com/vojtasvoboda/flickr-search" rel="nofollow" target="_blank">https://github.com/vojtasvoboda/flickr-search</a><br />
+            Článek na blogu: <a href="http://blog.vojtasvoboda.cz/vyhledavani-obrazku-pres-flickr-api-v-php" target="_blank">http://blog.vojtasvoboda.cz/vyhledavani-obrazku-pres-flickr-api-v-php</a>
         </code>
 
     </div>
