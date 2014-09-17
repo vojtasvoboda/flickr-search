@@ -16,6 +16,7 @@ if (!empty($_GET["q"])) {
     $key = "YOUR_KEY";
     $secret = "YOUR_SECRET";
     $perm = "read";
+    $token = "YOUR_GENERATED_AUTH_TOKEN";
 
     /* keyword */
     $keyword = stripslashes(htmlspecialchars($_GET["q"]));
@@ -67,6 +68,7 @@ if (!empty($_GET["q"])) {
 
     /* zavolame knihovnu flickr */
     $f = new phpFlickr($key, $secret);
+    $f->setToken($token);
 
     // cache na filesystem
     // $f->enableCache("fs", "cache");
