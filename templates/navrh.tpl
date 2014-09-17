@@ -22,8 +22,7 @@
 
         <code>
             Project Homepage: <a href="http://phpflickr.com/" rel="nofollow">phpFlickr</a><br />
-            Google Code Project Page: <a href="http://code.google.com/p/phpflickr/" rel="nofollow">http://code.google.com/p/phpflickr/</a><br />
-            Direct Download: <a href="/files/phpflickr-3.0.zip">phpflickr-3.0.zip</a> [19,6 kB]
+            GitHub Project Page: <a href="https://github.com/dan-coulter/phpflickr" rel="nofollow">https://github.com/dan-coulter/phpflickr</a>
         </code>
 
         <p>Tato třída poskytuje abstraktní vrstvu nad API, takže voláme přímo metody API. phpFlickr se nám postará o sestavení korektního XML dotazu a zpracování odpovědi. Takto lze volat všechny metody API, my však využijeme pouze některé z nich:</p>
